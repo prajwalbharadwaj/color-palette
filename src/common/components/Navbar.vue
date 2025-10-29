@@ -25,7 +25,7 @@ onMounted(() => {
 </script>
 
 <template>
-  <div class="bg-black text-white h-12 px-5 flex justify-between items-center">
+  <div class="bg-black text-white min-h-12 px-5 py-5 md:py-2 grid md:flex justify-between items-center gap-3 sticky top-0 z-1">
     <div class="flex gap-4 items-center">
       <div class="text-2xl font-medium">Color - Palette</div>
       <div
