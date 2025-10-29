@@ -1,10 +1,8 @@
 <script setup>
-import { onMounted } from "vue";
 import { palettes } from "~/common/util/constants.js";
 import { useRouter } from "vue-router";
 
 const router = useRouter();
-
 </script>
 
 <template>
