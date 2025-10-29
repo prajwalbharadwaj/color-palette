@@ -347,6 +347,8 @@ export const us = {
   ],
 };
 
+export const palettes = { defo, au, ca, cn, de, es, fr, gb, india, nl, ru, se, tr, us };
+
 // asd = {
 //   indiaSunrise: "",
 //   brazilWave: "",
