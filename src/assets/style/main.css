@@ -1,6 +1,11 @@
 @import "tailwindcss";
 
 body {
-  @apply bg-gray-100;
+  /* @apply bg-gray-100; */
   font-family: "Rubik", sans-serif;
+  background-color: #fef2eb;
+  opacity: 1;
+  background-image:  radial-gradient(#e67e22 0.6000000000000001px, transparent 0.6000000000000001px), radial-gradient(#e67e22 0.6000000000000001px, #fef2eb 0.6000000000000001px);
+  background-size: 24px 24px;
+  background-position: 0 0,12px 12px;
 }
